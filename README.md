@@ -1,7 +1,7 @@
 ## popularity_counter for elasticsearch  
 
-#### This counts the number of times a specific document was returned by elastixsearch (a document in elastixsearch is a model object in django). Based on this, it is possible to sort suggestions by popularity on the front end.
-This addition does not change the database, it only adds a field to the document in elastixsearch
+#### This code counts the number of times a specific document was returned by elastixsearch (a document in elastixsearch is a model object in django). Based on this, it is possible to sort suggestions by popularity on the front end.
+This code does not change the database, it only adds a field to the document in elastixsearch
 
 Installation:
 
